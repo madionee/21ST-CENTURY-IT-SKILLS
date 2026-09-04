@@ -1,4 +1,6 @@
-<div align="center">
+<p align="center">
+  <img src="Images/HI!.png" width="100%">
+</p>
 
 # ₊˚⊹ Hi, I'm Dee! ✦
 
