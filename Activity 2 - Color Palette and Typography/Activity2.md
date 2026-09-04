@@ -1,5 +1,9 @@
 # Activity 2: Color Palette and Typography
 
+<p align="center">
+  <img src="ACTIVITY2.png" width="700">
+</p>
+
 ## Overview
 
 This activity focused on understanding how colors and typography can affect the appearance and effectiveness of a design.
