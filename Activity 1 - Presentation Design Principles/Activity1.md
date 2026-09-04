@@ -1,9 +1,8 @@
 # Activity 1: Presentation Design Principles
 
 <p align="center">
-  <img src="activity1.png" width="700">
+  <img src="ACTIVITY1.png" width="700">
 </p>
-
 ## Overview
 
 This activity allowed me to explore the basic principles that make a presentation clear, organized, and easy to understand. It focused on how the arrangement of text, images, colors, and other elements can affect the way information is presented.
