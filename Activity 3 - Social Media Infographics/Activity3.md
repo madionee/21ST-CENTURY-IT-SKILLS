@@ -1,5 +1,9 @@
 # Activity 3: Social Media Infographics and Mini Project Documentation
 
+<p align="center">
+  <img src="ACTIVITY3.png" width="700">
+</p>
+
 ## Overview
 
 This activity focused on creating a social media infographic and documenting the process behind its development.
