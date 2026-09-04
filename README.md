@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/HI!.png" width="100%">
+  <img src="images/HI!.png" width="100%">
 </p>
 
 # ₊˚⊹ Hi, I'm Dee! ✦
